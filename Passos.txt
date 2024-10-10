@@ -1,0 +1,4 @@
+Configuração da conta local do Git:
+
+git config --global user.name Eduardo.viegas
+git config --global user.email Eduardo.viegas@etec.sp.gov.br
